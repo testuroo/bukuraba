@@ -1,0 +1,1102 @@
+.lp {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.lp .div {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #ffffff1a;
+  height: 6426px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1366px;
+}
+
+.lp .overlap {
+  background-image: url(https://c.animaapp.com/KQ12DcXT/img/aaron-burden-c333d6yehi0-unsplash.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 532px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 1367px;
+}
+
+.lp .overlap-group {
+  height: 436px;
+  left: 78px;
+  position: absolute;
+  top: 94px;
+  width: 1161px;
+}
+
+.lp .image {
+  height: 29px;
+  left: 530px;
+  position: absolute;
+  top: 0;
+  width: 631px;
+}
+
+.lp .SNS {
+  height: 29px;
+  left: 607px;
+  position: absolute;
+  top: 62px;
+  width: 467px;
+}
+
+.lp .img {
+  height: 2px;
+  left: 591px;
+  position: absolute;
+  top: 14px;
+  width: 22px;
+}
+
+.lp .bukuraba {
+  height: 78px;
+  left: 602px;
+  position: absolute;
+  top: 130px;
+  width: 473px;
+}
+
+.lp .group {
+  height: 430px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 624px;
+}
+
+.lp .getitongoogleplay {
+  height: 57px;
+  left: 990px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 193px;
+}
+
+.lp .download-on-the-app {
+  height: 57px;
+  left: 726px;
+  position: absolute;
+  top: 374px;
+  width: 185px;
+}
+
+.lp .overlap-2 {
+  height: 1396px;
+  left: 92px;
+  position: absolute;
+  top: 2221px;
+  width: 1151px;
+}
+
+.lp .overlap-3 {
+  height: 1396px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1151px;
+}
+
+.lp .vector {
+  height: 194px;
+  left: 0;
+  position: absolute;
+  top: 643px;
+  width: 635px;
+}
+
+.lp .vector-2 {
+  height: 332px;
+  left: 547px;
+  position: absolute;
+  top: 221px;
+  width: 604px;
+}
+
+.lp .text-wrapper {
+  color: #050505;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 180px;
+  width: 547px;
+}
+
+.lp .text-wrapper-2 {
+  color: #050505;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 290px;
+  width: 427px;
+}
+
+.lp .element {
+  height: 243px;
+  left: 455px;
+  object-fit: cover;
+  position: absolute;
+  top: 466px;
+  width: 264px;
+}
+
+.lp .element-2 {
+  height: 151px;
+  left: 600px;
+  object-fit: cover;
+  position: absolute;
+  top: 587px;
+  width: 163px;
+}
+
+.lp .group-2 {
+  height: 707px;
+  left: 102px;
+  position: absolute;
+  top: 689px;
+  width: 466px;
+}
+
+.lp .iphone-pro-black-wrapper {
+  background-image: url(https://c.animaapp.com/KQ12DcXT/img/main@2x.png);
+  background-size: 100% 100%;
+  height: 431px;
+  left: 668px;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.lp .iphone-pro-black {
+  height: 419px;
+  left: 18px;
+  position: absolute;
+  top: 12px;
+  width: 369px;
+}
+
+.lp .text-wrapper-3 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 607px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 921px;
+  width: 544px;
+}
+
+.lp .overlap-4 {
+  height: 154px;
+  left: 629px;
+  position: absolute;
+  top: 1095px;
+  width: 501px;
+}
+
+.lp .text-wrapper-4 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 350px;
+}
+
+.lp .text-wrapper-5 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 120px;
+  width: 501px;
+}
+
+.lp .overlap-5 {
+  height: 777px;
+  left: 151px;
+  position: absolute;
+  top: 3765px;
+  width: 1092px;
+}
+
+.lp .overlap-6 {
+  height: 777px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1091px;
+}
+
+.lp .vector-3 {
+  height: 141px;
+  left: 164px;
+  position: absolute;
+  top: 636px;
+  width: 727px;
+}
+
+.lp .text-wrapper-6 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 1091px;
+}
+
+.lp .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 341px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 199px;
+  width: 501px;
+}
+
+.lp .text-wrapper-8 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 737px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 310px;
+  width: 354px;
+}
+
+.lp .text-wrapper-9 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 164px;
+  width: 377px;
+}
+
+.lp .group-3 {
+  height: 632px;
+  left: 379px;
+  position: absolute;
+  top: 112px;
+  width: 303px;
+}
+
+.lp .element-3 {
+  height: 234px;
+  left: 577px;
+  object-fit: cover;
+  position: absolute;
+  top: 492px;
+  width: 238px;
+}
+
+.lp .text-wrapper-10 {
+  -webkit-text-stroke: 1px #080808;
+  color: #0d0d0d;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 411px;
+  width: 367px;
+}
+
+.lp .overlap-7 {
+  background-image: url(https://c.animaapp.com/KQ12DcXT/img/james-chan-zk-a1qqwcjo-unsplash.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 412px;
+  left: 142px;
+  position: absolute;
+  top: 5776px;
+  width: 1102px;
+}
+
+.lp .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 558px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 82px;
+  width: 537px;
+}
+
+.lp .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 557px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 189px;
+  width: 536px;
+}
+
+.lp .download-on-the-app-2 {
+  height: 57px;
+  left: 576px;
+  position: absolute;
+  top: 297px;
+  width: 185px;
+}
+
+.lp .getitongoogleplay-2 {
+  height: 57px;
+  left: 861px;
+  object-fit: cover;
+  position: absolute;
+  top: 297px;
+  width: 193px;
+}
+
+.lp .group-4 {
+  height: 344px;
+  left: 92px;
+  position: absolute;
+  top: 68px;
+  width: 406px;
+}
+
+.lp .text-wrapper-13 {
+  color: #040404;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 708px;
+  width: 604px;
+}
+
+.lp .text-wrapper-14 {
+  color: #040404;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 875px;
+  width: 556px;
+}
+
+.lp .overlap-8 {
+  height: 139px;
+  left: 152px;
+  position: absolute;
+  top: 1110px;
+  width: 1091px;
+}
+
+.lp .text-wrapper-15 {
+  color: #00697f;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 1091px;
+}
+
+.lp .text-wrapper-16 {
+  color: #00697f;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 60px;
+  width: 1091px;
+}
+
+.lp .overlap-9 {
+  height: 139px;
+  left: 151px;
+  position: absolute;
+  top: 2047px;
+  width: 1091px;
+}
+
+.lp .overlap-10 {
+  height: 179px;
+  left: 152px;
+  position: absolute;
+  top: 5193px;
+  width: 322px;
+}
+
+.lp .text-wrapper-17 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 322px;
+}
+
+.lp .text-wrapper-18 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 69px;
+  width: 292px;
+}
+
+.lp .text-wrapper-19 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 5262px;
+  width: 245px;
+}
+
+.lp .overlap-11 {
+  height: 134px;
+  left: 934px;
+  position: absolute;
+  top: 5196px;
+  width: 310px;
+}
+
+.lp .text-wrapper-20 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 300;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 66px;
+  width: 288px;
+}
+
+.lp .text-wrapper-21 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 29px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 310px;
+}
+
+.lp .image-2 {
+  height: 30px;
+  left: 581px;
+  position: absolute;
+  top: 5207px;
+  width: 248px;
+}
+
+.lp .overlap-12 {
+  height: 348px;
+  left: 155px;
+  position: absolute;
+  top: 4827px;
+  width: 319px;
+}
+
+.lp .text-wrapper-22 {
+  -webkit-text-stroke: 1px #080808;
+  color: #0d0d0d;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 900;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 64px;
+}
+
+.lp .ellipse {
+  border: 1px solid;
+  border-color: #00697fdb;
+  border-radius: 159.5px;
+  height: 319px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 319px;
+}
+
+.lp .bukuraba-2 {
+  height: 38px;
+  left: 109px;
+  position: absolute;
+  top: 179px;
+  width: 101px;
+}
+
+.lp .overlap-13 {
+  height: 348px;
+  left: 538px;
+  position: absolute;
+  top: 4827px;
+  width: 319px;
+}
+
+.lp .text-wrapper-23 {
+  -webkit-text-stroke: 1px #080808;
+  color: #0d0d0d;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 900;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 63px;
+}
+
+.lp .element-4 {
+  height: 183px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 171px;
+}
+
+.lp .overlap-14 {
+  height: 358px;
+  left: 924px;
+  position: absolute;
+  top: 4817px;
+  width: 319px;
+}
+
+.lp .text-wrapper-24 {
+  -webkit-text-stroke: 1px #080808;
+  color: #0d0d0d;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 900;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 64px;
+}
+
+.lp .ellipse-2 {
+  border: 1px solid;
+  border-color: #00697fdb;
+  border-radius: 159.5px;
+  height: 319px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 319px;
+}
+
+.lp .element-5 {
+  height: 111px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 134px;
+  width: 118px;
+}
+
+.lp .element-6 {
+  height: 131px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 129px;
+}
+
+.lp .text-wrapper-25 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 200;
+  left: 151px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1841px;
+  width: 310px;
+}
+
+.lp .text-wrapper-26 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 200;
+  left: 542px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1836px;
+  width: 313px;
+}
+
+.lp .text-wrapper-27 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 200;
+  left: 936px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1836px;
+  width: 306px;
+}
+
+.lp .overlap-15 {
+  border-radius: 13px;
+  height: 330px;
+  left: 542px;
+  position: absolute;
+  top: 1360px;
+  width: 313px;
+}
+
+.lp .element-7 {
+  height: 239px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 238px;
+}
+
+.lp .rectangle {
+  border: 2px solid;
+  border-color: #00697f;
+  border-radius: 13px;
+  height: 330px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.lp .overlap-16 {
+  border-radius: 13px;
+  height: 330px;
+  left: 932px;
+  position: absolute;
+  top: 1360px;
+  width: 310px;
+}
+
+.lp .element-8 {
+  height: 239px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 239px;
+}
+
+.lp .rectangle-2 {
+  border: 2px solid;
+  border-color: #00697f;
+  border-radius: 13px;
+  height: 330px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 310px;
+}
+
+.lp .element-wrapper {
+  border: 2px solid;
+  border-color: #00697f;
+  border-radius: 13px;
+  height: 330px;
+  left: 151px;
+  position: absolute;
+  top: 1363px;
+  width: 310px;
+}
+
+.lp .element-9 {
+  height: 238px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 251px;
+}
+
+.lp .intersect {
+  height: 360px;
+  left: 787px;
+  object-fit: cover;
+  position: absolute;
+  top: 641px;
+  width: 403px;
+}
+
+.lp .overlap-17 {
+  height: 402px;
+  left: 142px;
+  position: absolute;
+  top: 5373px;
+  width: 1097px;
+}
+
+.lp .element-10 {
+  height: 260px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 271px;
+}
+
+.lp .text-wrapper-28 {
+  color: #00697f;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 256px;
+  width: 1088px;
+}
+
+.lp .text-wrapper-29 {
+  color: #00697f;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 323px;
+  width: 1088px;
+}
+
+.lp .overlap-18 {
+  height: 82px;
+  left: 932px;
+  position: absolute;
+  top: 1742px;
+  width: 310px;
+}
+
+.lp .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 310px;
+}
+
+.lp .text-wrapper-30 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 3px;
+  width: 95px;
+}
+
+.lp .overlap-19 {
+  height: 84px;
+  left: 151px;
+  position: absolute;
+  top: 1742px;
+  width: 313px;
+}
+
+.lp .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.lp .text-wrapper-31 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 5px;
+  width: 95px;
+}
+
+.lp .overlap-20 {
+  height: 82px;
+  left: 542px;
+  position: absolute;
+  top: 1742px;
+  width: 313px;
+}
+
+.lp .text-wrapper-32 {
+  color: #000000;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 114px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 3px;
+  width: 95px;
+}
+
+.lp .overlap-21 {
+  height: 139px;
+  left: 155px;
+  position: absolute;
+  top: 4625px;
+  width: 1088px;
+}
+
+.lp .text-wrapper-33 {
+  color: #00697f;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+  width: 1088px;
+}
+
+.lp .text-wrapper-34 {
+  color: #00697f;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 60px;
+  width: 1088px;
+}
+
+.lp .overlap-group-wrapper {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 6316px;
+  width: 1370px;
+}
+
+.lp .overlap-group-2 {
+  height: 128px;
+  position: relative;
+  width: 1366px;
+}
+
+.lp .group-5 {
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.lp .twitter-x {
+  height: 40px;
+  left: 1243px;
+  position: absolute;
+  top: 36px;
+  width: 41px;
+}
+
+.lp .bukuraba-3 {
+  height: 66px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 88px;
+}
+
+.lp .text-wrapper-35 {
+  color: #ffffff;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 903px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 50px;
+  width: 150px;
+}
+
+.lp .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Noto Serif JP", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 1074px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 50px;
+  width: 223px;
+}
